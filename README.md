@@ -12,12 +12,12 @@
 
 <h2 align="left">Language and tools: </h2>
 <p align="left">
-    <a href="https://www.geeksforgeeks.org/c-language-introduction/" target="blank"><img src="https://repository-images.githubusercontent.com/430250138/cca771c8-fe2e-4867-83ce-05e1a7d0dfb0" alt="C" height="30" width="40"/></a>
-    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="30" width="40" /></a>
-    <a href="https://www.w3schools.com/python/" target="blank"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" height="30" width="40" /></a>
-    <a href="https://www.w3schools.com/MySQL/default.asp" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAUHT6goD4bWQsUwTVAXAfP2IbqNRItnRVg&usqp=CAU" alt="mySQL" height="40" width="50" /></a>
-    <a href="https://www.w3schools.com/html/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="30" width="50" /></a>
-    <a href="https://www.w3schools.com/css/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="" height="30" width="40" /></a>
+    <a href="https://www.geeksforgeeks.org/c-language-introduction/" target="blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40" width="50"/></a>
+    <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40" width="50" /></a>
+    <a href="https://www.w3schools.com/python/" target="blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="40" width="50" /></a>
+    <a href="https://www.w3schools.com/MySQL/default.asp" target="blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" height="40" width="50" /></a>
+    <a href="https://www.w3schools.com/html/" target="blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40" width="50" /></a>
+    <a href="https://www.w3schools.com/css/" target="blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40" width="50" /></a>
     
 </p>
 
