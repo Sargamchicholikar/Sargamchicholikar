@@ -6,8 +6,8 @@
 
 <h2 align="left"> Connect with me: </h2>
 <p aling="left">
-<a href="https://www.linkedin.com/in/sargam-chicholikar-aa61a824b" target="blank"><img align="center" src="" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/Sargam22?t=H5K4Vg5TUM8-Nl1UnkTa3A&s=08" target="blank"><img align="center" src="" alt="twitter" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/sargam-chicholikar-aa61a824b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/Sargam22?t=H5K4Vg5TUM8-Nl1UnkTa3A&s=08" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="30" width="40" /></a> 
 </p>
 
 <h2 align="left">Language and tools: </h2>
@@ -20,6 +20,9 @@
     <a href="https://www.w3schools.com/css/" target="blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40" width="50" /></a>
     
 </p>
+<h2 align="left"> OS I Prefer: </h2>
+<a herf="https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/" target="blank"> <img scr="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"  height="40" width="50" /></a>
+<a herf="https://www.javatpoint.com/linux-commands" target="blank"> <img scr="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"  height="40" width="50" /></a>
 
 <!--
 **Sargamchicholikar/Sargamchicholikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
