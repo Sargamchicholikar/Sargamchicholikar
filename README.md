@@ -4,7 +4,7 @@
 ### ✨ Currently learing C++
 ### ✨ Currently exploring Google Cloud and Web Devlopment
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sargamchicholikar&label=Profile%20views&color=0e75b6&style=flat" alt="Sargamchicholikar" /> </p>
 <h2 align="left"> Connect with me: </h2>
 <p aling="left">
 <a href="https://www.linkedin.com/in/sargam-chicholikar-aa61a824b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="60" /></a>
@@ -30,6 +30,7 @@
 <p>
   <img align ="" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sargamchicholikar&layout=compact&theme=radical"/>
 </p>
+
 <!--
 **Sargamchicholikar/Sargamchicholikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
